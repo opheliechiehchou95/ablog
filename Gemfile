@@ -36,3 +36,6 @@ gem "webrick", "~> 1.8"
 
 # seo plugin 
 gem 'jekyll-seo-tag'
+
+# for the seo crawlers
+gem 'jekyll-sitemap'
