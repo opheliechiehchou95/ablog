@@ -6,3 +6,4 @@ categories: thoughts
 ---
 My thoughts here
 
+![My helpful screenshot](/assets/2023-12-19-my-thoughts-1.png)
