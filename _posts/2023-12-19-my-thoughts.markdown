@@ -7,7 +7,7 @@ categories: thoughts
 
 # Thoughts on the tracking of deep consequences of leaders
 
-![My helpful screenshot](/assets/2023-12-19-my-thoughts-1.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/2023-12-19-my-thoughts-1.png)
 
 
 ## Introduction 
@@ -28,13 +28,13 @@ For example
 
 Lets take Mr. **Dirk Muthig** as example.
 
-![My helpful screenshot](/assets/1.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/1.png)
 
-![My helpful screenshot](/assets/2.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/2.png)
 
-![My helpful screenshot](/assets/3.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/3.png)
 
-![My helpful screenshot](/assets/4.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/4.png)
 
 
 ### "Fraunhofer" institute - 8 years
@@ -132,7 +132,7 @@ Now Dirk Muthig is hired again, to build a new "distributed system".
 
 I think this image should be here.
 
-![My helpful screenshot](/assets/dirk-muthig-porsche.png)
+![My helpful screenshot](https://opheliechiehchou95.github.io/ablog/assets/dirk-muthig-porsche.png)
 
 Next "Distributed platform" approaching.
 
